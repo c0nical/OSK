@@ -1,4 +1,9 @@
-
+@media screen and (max-width: 720px) {
+	/* Установите размер шрифта для мобильных устройств */
+	body {
+	  font-size: 16px;
+	}
+  }
 .e1_67 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:110%;
