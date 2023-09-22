@@ -1,0 +1,251 @@
+
+.e1_67 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:110%;
+	height:2500px;
+	position:absolute;
+}
+.e2_29 { 
+	width:110%;
+	height:496px;
+	position:absolute;
+	left:0px;
+	top:2004px;
+	background-image:url(images/kartinka___rukovoditel_stroitelnoi_774_organizatsii_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e2_36 { 
+	background-color:rgba(0, 0, 0, 0.75);
+	width:736px;
+	height:107px;
+	position:absolute;
+	left:592px;
+	top:2138px;
+}
+.e2_42 { 
+	width:110%;
+	height:2500px;
+	background-attachment:fixed;
+	left:0px;
+	top:0px;
+	background-image:url(images/whatsapp_image_2023_09_20_at_18_18_1.png);
+	background-size:cover;
+}
+.e2_35 {
+    background-color: rgba(0, 0, 0, 0.75);
+    width: 110%;
+    height: 921px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.e2_26 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:110%;
+	height:136px;
+	position:absolute;
+	left:0px;
+	top:1868px;
+}
+.e1_68 { 
+	background-color:rgba(0, 0, 0, 0.75);
+	width:110%;
+	height:140px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e2_43 { 
+	background-color:rgba(0, 0, 0, 0.800000011920929);
+	width:936px;
+	height:88px;
+	position:absolute;
+	left:23%;
+	top:158px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.e1_69 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:110%;
+	height:118px;
+	position:absolute;
+	left:0px;
+	top:2382px;
+}
+.e1_70 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0.75);
+	width:280px;
+	height:472px;
+	position:absolute;
+	left:0px;
+	top:263px;
+}
+.e3_48 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0.75);
+	width:280px;
+	height:472px;
+	position:absolute;
+	left:1640px;
+	top:263px;
+}
+.e3_47 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:1360px;
+	height:472px;
+	position:absolute;
+	left:280px;
+	top:263px;
+}
+.e2_2 { 
+	color:rgba(255, 255, 255, 1);
+	width:325px;
+	height:70px;
+	position:absolute;
+	left:48%;
+	top:70px;
+	font-family:Podkova;
+	text-align: center; /* Центрирует текст по горизонтали */
+	transform: translate(-60%, -50%);
+	font-size: 40px;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+}
+.e2_4 { 
+	color:rgba(255, 255, 255, 1);
+	width:775px;
+	height:71px;
+	position:absolute;
+	left:50%;
+	top:200px;
+	transform: translate(-60%, -50%);
+	font-family:Podkova;
+	text-align: center; /* Центрирует текст по горизонтали */
+	font-size: 40px;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+}
+.e2_5 {
+    color: rgba(255, 255, 255, 1);
+    width: 969px;
+    height: 71px;
+    position: absolute;
+    left: 50%;
+    top: 34%;
+    transform: translate(-60%, -50%);
+    font-family: Podkova;
+    text-align: center; /* Центрирует текст по горизонтали */
+    font-size: 64px;
+    letter-spacing: 0;
+}
+
+.e2_6 { 
+	color: rgba(255, 255, 255, 1);
+    width: 70%;
+    height: 471px;
+    position: absolute;
+    left: 50%;
+    top: 47%;
+    transform: translate(-60%, -50%);
+    font-family: Podkova;
+    text-align: center; /* Центрирует текст по горизонтали */
+    font-size: 40px;
+    letter-spacing: 0;
+}
+.e3_52 { 
+	color: rgba(255, 255, 255, 1);
+    width: 70%;
+    height: 471px;
+    position: absolute;
+    left: 50%;
+    top: 66%;
+    transform: translate(-60%, -50%);
+    font-family: Podkova;
+    text-align: center; /* Центрирует текст по горизонтали */
+    font-size: 40px;
+    letter-spacing: 0;
+}
+.e3_51 { 
+	color: rgba(255, 255, 255, 1);
+    width: 70%;
+    height: 471px;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-60%, -50%);
+    font-family: Podkova;
+    text-align: center; /* Центрирует текст по горизонтали */
+    font-size: 64px;
+    letter-spacing: 0;
+}
+.e2_25 { 
+	color:rgba(255, 255, 255, 1);
+	width:1438px;
+	height:80px;
+	position:absolute;
+	left:50%;
+	top:1930px;
+	transform: translate(-60%, -50%);
+	font-family:Podkova;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e2_28 { 
+	color:rgba(255, 255, 255, 1);
+	width:735px;
+	height:106px;
+	position:absolute;
+	left:593px;
+	top:2139px;
+	font-family:Podkova;
+	text-align:center;
+	font-size:96px;
+	letter-spacing:0;
+}
+.e3_56 { 
+	transform: rotate(-90.00000250447808deg);
+	background-color:rgba(0, 0, 0, 1);
+	width:103.99999237060547px;
+	height:104.00000762939453px;
+	position:absolute;
+	left:88px;
+	top:551px;
+}
+.e3_59 { 
+	transform: rotate(-89.99999749552194deg);
+	background-color:rgba(0, 0, 0, 1);
+	width:103.99999237060547px;
+	height:104.00000762939453px;
+	position:absolute;
+	left:1832px;
+	top:551px;
+}
+/* При необходимости можно применить стили к контейнеру фотографий или самим фотографиям */
+.photos {
+	display: flex; /* Устанавливаем flex-контейнер для ряда фотографий */
+	justify-content:space-between; /* Равномерно распределяем фотографии по горизонтали */
+	align-items: center; /* Выравниваем фотографии по вертикали по центру */
+	position: absolute;
+	top:350px;
+	left:20%;
+	z-index: 1;
+  }
+  
+  /* Опциональные стили для фотографий */
+  .photos img {
+	max-width: 30%; /* Устанавливаем максимальную ширину каждой фотографии */
+	height: 300px; /* Автоматически подстраиваем высоту для сохранения пропорций */
+  }
+  body, html {
+	margin: 0;
+	padding: 0;
+  }
+  body {
+	overflow-x: hidden;
+  }
