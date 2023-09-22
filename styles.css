@@ -1,9 +1,30 @@
+/* Базовый стиль для всех устройств */
+body {
+    font-size: 1rem; /* Устанавливаем базовый размер шрифта */
+}
+
+/* Адаптивные стили для мобильных устройств (max-width: 720px) */
 @media screen and (max-width: 720px) {
-	/* Установите размер шрифта для мобильных устройств */
-	body {
-	  font-size: 16px;
-	}
-  }
+    body {
+        font-size: 14px; /* Размер шрифта для мобильных устройств */
+    }
+
+    .e1_67 {
+        width: 100%; /* Используем относительную ширину */
+    }
+
+    .e2_29 {
+        width: 100%; /* Используем относительную ширину */
+        height: auto; /* Автоматическое масштабирование по высоте */
+    }
+
+    /* ... Другие стили для мобильных устройств ... */
+}
+
+/* Адаптивные стили для планшетов и десктопов (min-width: 721px) */
+@media screen and (min-width: 721px) {
+    /* ... Другие стили для планшетов и десктопов ... */
+}
 .e1_67 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:110%;
@@ -25,7 +46,8 @@
 	width:736px;
 	height:107px;
 	position:absolute;
-	left:592px;
+	left:50%;
+	transform: translate(-60%, -50%);
 	top:2138px;
 }
 .e2_42 { 
@@ -159,7 +181,7 @@
     transform: translate(-60%, -50%);
     font-family: Podkova;
     text-align: center; /* Центрирует текст по горизонтали */
-    font-size: 40px;
+    font-size: 2rem;
     letter-spacing: 0;
 }
 .e3_52 { 
@@ -172,7 +194,7 @@
     transform: translate(-60%, -50%);
     font-family: Podkova;
     text-align: center; /* Центрирует текст по горизонтали */
-    font-size: 40px;
+    font-size: 2rem;
     letter-spacing: 0;
 }
 .e3_51 { 
@@ -185,7 +207,7 @@
     transform: translate(-60%, -50%);
     font-family: Podkova;
     text-align: center; /* Центрирует текст по горизонтали */
-    font-size: 64px;
+    font-size: 3rem;
     letter-spacing: 0;
 }
 .e2_25 { 
@@ -198,7 +220,7 @@
 	transform: translate(-60%, -50%);
 	font-family:Podkova;
 	text-align:center;
-	font-size:36px;
+	font-size:2rem;
 	letter-spacing:0;
 }
 .e2_28 { 
@@ -206,11 +228,12 @@
 	width:735px;
 	height:106px;
 	position:absolute;
-	left:593px;
+	left: 50%;
 	top:2139px;
+	transform: translate(-60%, -50%);
 	font-family:Podkova;
 	text-align:center;
-	font-size:96px;
+	font-size:5rem;
 	letter-spacing:0;
 }
 .e3_56 { 
